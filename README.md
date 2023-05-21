@@ -1,6 +1,8 @@
 # SQLAlteredStateProject
 Final project for SQL/ETL 2023
 
+Altered State is a formal wear alteration studio specializing in high-end alterations of women’s special occasion outfits such as wedding gowns, prom gowns, bridesmaid dresses, and cocktail dresses. The purpose of this database is to track formalwear projects through the fitting and alteration processes, with tracked data including client information, dates of fittings and of sewing work completed, employees involved, and billable hours for each project.
+
 To set up database:
 1)	Create new ‘C:\tmp\’ folder (if does not already exist)
 2)	Download and save CSV and SQL files from GitHub to ‘C:\tmp\’ folder
