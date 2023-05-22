@@ -23,3 +23,10 @@ GO
 
 --Test run function: data for projectID #5
 SELECT * FROM ProjectWorkHours(5);
+GO
+
+--USE CASE: How can I see all instances of billable hours of each type (fitting and sewing)
+--  that have accrued so far for projectID #10, in chronological order of the date work was performed?
+SELECT * FROM ProjectWorkHours(10)
+ORDER BY DateOfWork ASC;
+GO
