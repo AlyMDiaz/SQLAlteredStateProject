@@ -15,7 +15,7 @@ To remove database:
 1)	Run AlteredStateCleanUp: Removes database and user
 2)	Delete CSV and SQL files from C:\tmp\ folder
 
-This mock database has been created for Altered State, which is a formal wear alteration studio specializing in high-end alterations of women’s special occasion outfits such as wedding gowns, prom gowns, bridesmaid dresses, and cocktail dresses. The purpose of this database is to track formalwear projects through the fitting and alteration processes using data that includes client information, dates of fittings and of sewing work completed, employees involved, and billable hours and prices for each project.
+This mock database has been created for Altered State, which is a formal wear alteration studio specializing in high-end alterations of women’s special occasion outfits such as wedding gowns, prom gowns, bridesmaid dresses, and cocktail dresses. The purpose of this database is to track formalwear projects through the fitting and alteration processes using data that includes client information, dates of fittings and of sewing work completed, employees involved, and billable hours and prices for each project. A visual overview of the database is viewable at AlteredStateDiagram.png.
 
 First, we create the database AlteredState along with a user, login, and permissions to allow the user to interact with the database. Then we create the table Pricing and insert basic pricing data, which will later allow the user to calculate the price to charge for specific projects.
 
